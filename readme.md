@@ -5,7 +5,6 @@
 <p><span>Built with </span><strong><span>React Native, Expo SDK 54, TypeScript, SQLite, Drizzle ORM, and Supabase</span></strong><span>, DukanFlow combines the reliability of local storage with the flexibility of cloud synchronization.</span></p>
 
 <h2><span>📥 Download DukanFlow</span></h2>
-<h3><a href="https://github.com/SundeepKumar07/DukanFlow-releases/releases/download/v3.0.2/DukanFlow_3.0.2.apk"><span>⬇️ DOWNLOAD DUKANFLOW v3.0.2 (ANDROID APK)</span></a></h3>
 <p><strong><span>Platform:</span></strong><span> Android</span><br>
 <strong><span>Package:</span></strong><span> DukanFlow</span><br>
 <strong><span>Developer:</span></strong><span> Sundeep Kumar</span></p>
